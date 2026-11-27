@@ -1,0 +1,6 @@
+pandas>=2.0
+streamlit>=1.30
+fpdf2>=2.7
+matplotlib>=3.7
+anthropic>=0.40
+pytest>=7.0
